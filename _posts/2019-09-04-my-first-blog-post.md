@@ -1,6 +1,2 @@
-Changing date from post
-
----
-title: "First Blog from scrathc"
+title: First Blog from scrath
 date: 2019-09-03
----
